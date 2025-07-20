@@ -42,24 +42,6 @@ pip install -r requirements.txt
 python test_aqi_system.py
 ```
 
-## 📁 Project Structure
-
-```
-green-route-aqi/
-├── README.md                          # Project documentation
-├── requirements.txt                   # Python dependencies
-├── .gitignore                        # Git ignore file
-├── green_route_aqi_forecasting.py    # Main production system
-├── test_aqi_system.py                # Simplified testing version
-├── show_results.py                   # Results display utility
-├── data/
-│   ├── california_housing_train.csv  # Training dataset
-│   ├── california_housing_test.csv   # Test dataset
-│   └── green_route_aqi_dataset.csv   # Generated AQI dataset
-└── output/
-    └── aqi_analysis_results.png      # Visualization output
-```
-
 ## 🔧 Usage
 
 ### Basic Usage
@@ -166,9 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mahmudu Hasan**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+**H M Mahmudu Hasan**
+- GitHub: [@oblivion97](https://github.com/your-username)
+- Email: mahmudul.uiu041@gmail.com
 
 ## 🙏 Acknowledgments
 
